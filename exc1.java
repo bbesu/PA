@@ -12,8 +12,6 @@ public class exc1 {
                 
               if(num%2==0) {  
                 System.out.println(num + " é divisivel por 2.");
-              }else {
-                System.out.println(num + " não é divisivel por 2.");
-        }
+            
     }
 }
