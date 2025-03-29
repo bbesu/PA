@@ -19,9 +19,7 @@ public class exc2 {
         
         if (num>0){
         System.out.println(num + " é um numero posistivo.");
-        }else {
-        System.out.println(num + "é um numero negativo.");
-            
+
         }
     }
 }
